@@ -23,6 +23,7 @@ int main()
 
 Input:
 Enter the Size (max. 100): 5
-Array Elements: 4 1 0 15 3
+
 Output:
+Enter 5 Array Elements: 4 1 0 15 3
 Largest Number = 15
