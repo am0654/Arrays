@@ -26,5 +26,5 @@ Input:
 Enter the Size for Array: 5
 
 Output:
-Array 5 Elements: 20 10 15 30 25
+Enter 5 Array Elements: 20 10 15 30 25
 Smallest Number = 15
